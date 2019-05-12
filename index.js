@@ -1,1 +1,2 @@
-function shout('hello')
+function shout('hello') {
+}
